@@ -122,7 +122,7 @@ html{
 .redes-sociales i{
     width: 4rem;
     height: 4rem;
-    border: 0.1rem solid #777;
+    /* border: 0.1rem solid #3B5998; */
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -134,17 +134,23 @@ html{
 }
 
 i.facebook{
+    border: 0.1rem solid #3B5998;
+
     color: #3B5998;
     cursor: pointer;
 
 }
 i.linkedin{
+    border: 0.1rem solid #0077B5;
+
     color: #0077B5 ;
     cursor: pointer;
 
 }
 
 i.instagram{
+    border: 0.1rem solid #DD2A7B;
+    
     color: #DD2A7B ;
     cursor: pointer;
 
